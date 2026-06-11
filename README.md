@@ -1,6 +1,6 @@
 # CTF_IDOR-writeups
 This is where I will be inputting my CTF reports
-## Corridor
+ ## Corridor
 This TryHackMe challenge is another easy one where we find our way back to where we came from. This looks fun and I'm excited to start. We will be exploring potential IDOR Vulnerabilities, which are a type of access control vulnerability that arises when an application uses user-supplied input.
 Step 1: Basic Nmap scan discovered the website, then an HTTP lookup to get the link using:
 `http://10.64.183.128`
